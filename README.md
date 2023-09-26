@@ -3,6 +3,8 @@
   --signup /sign in froms
 -browse(after authentication)
    --header
+   --login form
+   --Signup form
    --main movie
       --trailer in the background
       --tltle and description
@@ -12,3 +14,5 @@
 --Neflix gpt
   -sdearch bar
   -movie suggestions
+
+Use formik for form validation 

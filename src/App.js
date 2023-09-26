@@ -1,9 +1,10 @@
- import './App.css';
+ import Body from "./component/Body";
+import './index.css';
 
 function App() {
   return (
-    <div className="text-3xl font-bold text-red-600">
-         Lets build
+    <div>
+     <Body/>
     </div>
   );
 }
